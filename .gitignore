@@ -5,6 +5,7 @@
 /.bundle
 
 # Ignore all logfiles and tempfiles.
+/db/schema.rb
 /log/*
 /tmp/*
 !/log/.keep
